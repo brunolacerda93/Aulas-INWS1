@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    font-size: large
+}
+h1 {
+    color: blueviolet;
+}
+h2 {
+    color: darkmagenta;
+}
+h3 {
+    color: mediumorchid;
+}
+h4 {
+    color: crimson;
+}
+p {
+    color: limegreen;
+}
